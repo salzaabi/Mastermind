@@ -19,4 +19,7 @@
 ## Idea for Extra Features:
  - Add a reset game feature.
  - Add a undo feature.
- - Add 
+ - Add a timer.
+
+## Contribution:
+ Feel free to add your solutions to this game by created a directory that contains you full game. If possible, create a README.md file that contains a description of how you implemented your work. Also feel free to do some changes to the main interface; however, these will need to be approved by creating a pull request.
