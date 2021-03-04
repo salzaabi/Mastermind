@@ -3,7 +3,7 @@
  If you get the sequence correctly, the mastermind will let you know that you have won. If not, the mastermind tells you the number of exacts and inexacts in your guess.
  Feel free to use this as practice!
  
-# Some Pointers:
+## Some Pointers:
  - A mastermind game should have a specific length for all sequences. This length should be greater than 0.
  - A mastermind game can have duplicates. If duplicates are disabled, the length of the sequences cannot be larger than the length of the resources.
  - The resources are the elements used to play the game. The resources will be used to generate the correct sequence and for the player to guess. You are free to choose how to represent the game. For example, you can use Integers as your representation!
@@ -16,7 +16,7 @@
  - The inexacts are calculated as any element that is in the correct sequence but not in the correct position.
  - Watch out about how to handle exacts and inexacts for duplicates.
 
-# Idea for Extra Features:
+## Idea for Extra Features:
  - Add a reset game feature.
  - Add a undo feature.
  - Add 
