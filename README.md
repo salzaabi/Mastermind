@@ -3,6 +3,8 @@
  If you get the sequence correctly, the mastermind will let you know that you have won. If not, the mastermind tells you the number of exacts and inexacts in your guess.
  Feel free to use this as practice!
  
+ Personally, I still didn't create my solution, so there might be things missing. If so, let me know or make these changes and create a pull-request. I will look it over and approve it, if it is good!
+ 
 ## Some Pointers:
  - A mastermind game should have a specific length for all sequences. This length should be greater than 0.
  - A mastermind game can have duplicates. If duplicates are disabled, the length of the sequences cannot be larger than the length of the resources.
