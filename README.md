@@ -18,6 +18,11 @@
  - The inexacts are calculated as any element that is in the correct sequence but not in the correct position.
  - Watch out about how to handle exacts and inexacts for duplicates.
 
+## Notes on the MVC:
+ - Your model should represent the game with its basic features.
+ - Your controller should have commands to allow you to play the game, you can do this in whatever way you want. The most basic commands are inserting and submitting.
+ - Your view should display your game in whatever way you want. Be creative!
+
 ## Idea for Extra Features:
  - Add a reset game feature.
  - Add a undo feature.
